@@ -39,7 +39,7 @@ This project is an excellent beginner-friendly exercise for understanding:
 
 <p align="center">
 
-<img src="images/password_generator.png" width="850">
+<img src="python_password_generator.png" width="600">
 
 </p>
 
