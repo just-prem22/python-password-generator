@@ -78,8 +78,8 @@ This project is an excellent beginner-friendly exercise for understanding:
 ```text
 password-generator/
 │
-├── images/
-│   └── password_generator.png
+├── python_password_generator.png
+│   
 │
 ├── password_generator.py
 ├── README.md
@@ -97,7 +97,7 @@ password-generator/
 | `README.md` | Documentation explaining the project, setup, and functionality. |
 | `LICENSE` | MIT License for open-source usage. |
 | `.gitignore` | Prevents unnecessary files from being uploaded to GitHub. |
-| `images/` | Stores screenshots used in the README. |
+| `python_password_generator.png` | Screenshots used in the README. |
 
 ---
 
