@@ -43,7 +43,7 @@ This project is an excellent beginner-friendly exercise for understanding:
 
 </p>
 
-> Replace the above image with an actual screenshot of your project.
+
 
 ---
 
