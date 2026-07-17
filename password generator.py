@@ -5,17 +5,20 @@ characters = ['!','@','#','$','%','^','&','*','(',')','-','_','=','+','[',']','{
 a=int(input("how many aphabets you want...."))
 b=int(input("how many numbers you want to use....."))
 c=int(input("how many special characters you want to use...."))
-password=[]
-for x in range(0,a):
-    password.append(random.choice(alphabets))
-for y in range(0,b):
-    password.append(random.choice(numbers))
-for z in range(0,c):
-    password.append(random.choice(characters))
-t=len(password)
-password1=""
-for p in range(0,t):
-    password1+=random.choice(password)
-print(password1)
+d=int(input("How Many password suggestions you want..."))
+i=1
+for x in range(0,d):
+    password=[]
+    
+    for x in range(0,a):
+        password.append(random.choice(alphabets))
+    for y in range(0,b):
+        password.append(random.choice(numbers))
+    for z in range(0,c):
+        password.append(random.choice(characters))
+    random.shuffle(password)
+    password1 = "".join(password)
+    print(f"Password {i}: {password1}")
+    i=i+1
     
 
