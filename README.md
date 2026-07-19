@@ -78,7 +78,7 @@ This project is an excellent beginner-friendly exercise for understanding:
 ```text
 password-generator/
 │
-├── python_password_generator.png
+├── password_generator.png
 │   
 │
 ├── password_generator.py
