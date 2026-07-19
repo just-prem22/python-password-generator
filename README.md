@@ -97,7 +97,7 @@ password-generator/
 | `README.md` | Documentation explaining the project, setup, and functionality. |
 | `LICENSE` | MIT License for open-source usage. |
 | `.gitignore` | Prevents unnecessary files from being uploaded to GitHub. |
-| `python_password_generator.png` | Screenshots used in the README. |
+| `password_generator.png` | Screenshots used in the README. |
 
 ---
 
